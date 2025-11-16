@@ -11,13 +11,6 @@ note This Repo will only work in VPS.
 before Deploying Change your Credentials in Vars.py
 
 ```
-sudo apt update
-git clone https://github.com/rishavdevkr/cpdown
-cd cpdown
-pip3 install -r requirements.txt
-python3 main.py
-Note:- use (nohup python3 main.py) to run 24×7
-```
 ### AVAILABLE COMMANDS 
 ```
 /start - check whether the bot is alive 
